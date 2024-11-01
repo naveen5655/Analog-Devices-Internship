@@ -1,6 +1,6 @@
 # Analog devices Internship Report ( Badisa Naveen)
 
-Note: `All rights reservered for Analog Devices, I took screenshots to explain the my proect.`
+Note: `All rights reservered for Analog Devices, I took screenshots to explain my proect.`
 
 ## Introduction 
 Occasionally, our team gets tickets to restart a Jenkins controller that 
